@@ -26,5 +26,6 @@ This Kaggle dataset contains statistics (CSV files) on daily popular YouTube vid
 https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 ## Architecture Diagram
-<img src="architecture.jpeg">
+![architecture](https://github.com/VedantBopardikar/Youtube-Data-Analysis---End-to-End-ETL-Pipeline/assets/113256508/ec475894-e6ed-4360-b8cb-77479da64c7c)
+
 
